@@ -1,0 +1,11 @@
+Copyright (c) P1XX 2026
+
+ALL RIGHTS RESERVED.
+
+This software is provided for viewing purposes on GitHub only. 
+No rights are granted for copying, distribution, modification, 
+reverse engineering, or any commercial or non-commercial use 
+without explicit written permission from the author (P1XX).
+
+Any unauthorized use, reproduction, or distribution of this code 
+is strictly prohibited and may result in civil and criminal penalties.
